@@ -1,0 +1,14 @@
+C:\Users\Batdarg\source\repos\BookApp\BookApp\bin\Debug\net8.0\BookAppDatos.deps.json
+C:\Users\Batdarg\source\repos\BookApp\BookApp\bin\Debug\net8.0\BookAppDatos.runtimeconfig.json
+C:\Users\Batdarg\source\repos\BookApp\BookApp\bin\Debug\net8.0\BookAppDatos.dll
+C:\Users\Batdarg\source\repos\BookApp\BookApp\bin\Debug\net8.0\BookAppDatos.pdb
+C:\Users\Batdarg\source\repos\BookApp\BookApp\obj\Debug\net8.0\BookAppDatos.csproj.AssemblyReference.cache
+C:\Users\Batdarg\source\repos\BookApp\BookApp\obj\Debug\net8.0\BookAppDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batdarg\source\repos\BookApp\BookApp\obj\Debug\net8.0\BookAppDatos.AssemblyInfoInputs.cache
+C:\Users\Batdarg\source\repos\BookApp\BookApp\obj\Debug\net8.0\BookAppDatos.AssemblyInfo.cs
+C:\Users\Batdarg\source\repos\BookApp\BookApp\obj\Debug\net8.0\BookAppDatos.csproj.CoreCompileInputs.cache
+C:\Users\Batdarg\source\repos\BookApp\BookApp\obj\Debug\net8.0\BookAppDatos.dll
+C:\Users\Batdarg\source\repos\BookApp\BookApp\obj\Debug\net8.0\refint\BookAppDatos.dll
+C:\Users\Batdarg\source\repos\BookApp\BookApp\obj\Debug\net8.0\BookAppDatos.pdb
+C:\Users\Batdarg\source\repos\BookApp\BookApp\obj\Debug\net8.0\BookAppDatos.genruntimeconfig.cache
+C:\Users\Batdarg\source\repos\BookApp\BookApp\obj\Debug\net8.0\ref\BookAppDatos.dll
